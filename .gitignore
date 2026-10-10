@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.gguf
+*.part
+*.zip
+build*/
+.venv/
+Strata-data/
+modelos/
